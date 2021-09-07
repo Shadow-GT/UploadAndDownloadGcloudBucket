@@ -1,0 +1,12 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "Zenteno",
+            "email": "edwinzenteno94@gmail.com"
+        }
+    ],
+    "require": {
+        "google/cloud": "^0.165.0"
+    }
+}
