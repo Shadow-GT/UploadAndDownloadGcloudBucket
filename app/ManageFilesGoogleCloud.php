@@ -86,14 +86,3 @@ class ManageFilesGoogleCloud
 }
 
 
-/*$demo = new ManageFilesGoogleCloud('../tokenjs2.json', 'siac-vdf');
-
-try{
-    //$demo->uploadFile("../public/files/demo_homas 32#!'.txt", 'cargo.txt');
-    //$demo->downloadFile('demo/cargarFile', '../public/files/', 'cargo.txt');
-    $demo->getFilesOfThisBucket();
-} catch (Exception $e){
-    echo 'Excepción capturada: ',  $e->getMessage(), "\n";
-}*/
-
-
